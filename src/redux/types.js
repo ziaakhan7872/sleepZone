@@ -1,0 +1,7 @@
+export const USER_NAME = 'USER_NAME';
+export const WAKEUPEASY = 'WAKEUPEASY';
+export const NOWAKEUPWINDOW = 'NOWAKEUPWINDOW';
+export const SLEEPANALYZE = 'SLEEPANALYZE';
+export const DAILYSTEP = 'DAILYSTEP';
+export const DAILYSNORE = 'DAILYSNORE';
+export const WAKEPHASETIME = 'WAKEPHASETIME';
